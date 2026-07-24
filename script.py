@@ -7,6 +7,7 @@ from PIL import Image
 # 2.更换自己想用的风格，把前面的#去掉就可以直接替换
 # 3.适当更改width 一般70效果就比较好，100以上会更清晰
 # 4.在左侧栏找到unicode_art.txt 里面的内容即为字符画
+
 # 输入图片
 image_path = "example.png"
 # 注意这里要换成图片对应的文件名
