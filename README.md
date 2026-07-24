@@ -1,3 +1,8 @@
+[English](README.md) | [中文](README_CN.md)
+
+
+
+
 # Unicode Character Art Generator
 
 A Python-based Unicode character art generator.
