@@ -21,7 +21,7 @@ output_path = "unicode_art.txt"
 
 chars = " ⠁⠂⠄⡀⢀⣀⣤⣶⣿"
 # chars = " .:-=+*#%@"
-chars = "               .,:;i1tfLCG08@"
+# chars = "               .,:;i1tfLCG08@"
 # 三种不同的像素画风格
 
 
