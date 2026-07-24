@@ -2,7 +2,7 @@
 
 
 
-##该工具现已上线网页版，无需下载此脚本，点击[unicode-character-art-generator.noritovo.workers.dev]即可使用
+##该工具现已上线网页版，无需下载此脚本，点击unicode-character-art-generator.noritovo.workers.dev即可使用
 
 # Unicode Character Art Generator
 
