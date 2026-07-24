@@ -2,6 +2,11 @@
 
 
 
+## Online Version
+
+No Python installation required. Generate Unicode character art directly in your browser:
+
+➡️ [Open Unicode Character Art Generator](https://unicode-character-art-generator.noritovo.workers.dev)
 
 # Unicode Character Art Generator
 
