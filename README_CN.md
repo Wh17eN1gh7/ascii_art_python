@@ -2,7 +2,11 @@
 
 
 
-## 该工具现已上线网页版，无需下载此脚本，点击[Unicode Character Art Generator](https://unicode-character-art-generator.noritovo.workers.dev)即可使用
+## 在线版本
+
+无需安装 Python，直接在线生成 Unicode 字符画：
+
+➡️ [点击进入 Unicode Character Art Generator](https://unicode-character-art-generator.noritovo.workers.dev)
 
 # Unicode Character Art Generator
 
